@@ -3,6 +3,8 @@ public class TestSort {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Test message..");
+		
 		int[] myInts = {200, -102, 1, 50005, -1};
 		
 		for(int i=0; i<myInts.length; i++) {
