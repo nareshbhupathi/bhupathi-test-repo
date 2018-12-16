@@ -13,7 +13,7 @@ public class MySingleton {
 			}
 		}
 		
-		System.out.println("Hi Mama!");
+		System.out.println("Hello..!");
 		
 		return myInstance;
 	}
